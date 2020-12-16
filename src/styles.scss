@@ -1,1 +1,71 @@
 /* You can add global styles to this file, and also import other style files */
+/* You can add global styles to this file, and also import other style files */
+
+body {
+  font-family: arial;
+  height:100vh;
+
+
+}
+
+
+main {
+  max-width:100%;
+  margin:0 auto;
+}
+
+
+
+
+
+hr {
+  border-style: dashed;
+  color:#272424;
+ border-radius: 2px;
+}
+
+.header-mark {
+  border-radius: 3px;
+  border-color: rgb(5, 116, 10);
+  border-width: 3px;
+  border-style: solid;
+}
+.main-app-mark {
+  border-radius: 3px;
+  border-color: rgb(197, 27, 191);
+  border-width: 3px;
+  border-style: solid;
+}
+
+.sub-app-mark {
+  border-radius: 3px;
+  border-color: rgb(150, 206, 61);
+  border-width: 3px;
+  border-style: solid;
+}
+
+.side-app-mark {
+  border-radius: 3px;
+  border-color: rgb(12, 25, 199);
+  border-width: 3px;
+  border-style: solid;
+}
+
+.footer-app-mark {
+  border-radius: 3px;
+  border-color: rgb(20, 144, 148);
+  border-width: 3px;
+  border-style: solid;
+}
+.shell-mark {
+  border-radius: 3px;
+  border-color: rgb(202, 12, 12);
+  border-width: 3px;
+  border-style: solid;
+}
+.dynamic-mark{
+  border-radius: 3px;
+  border-color: rgb(228, 231, 61);
+  border-width: 3px;
+  border-style: solid;
+}
