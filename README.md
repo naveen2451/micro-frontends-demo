@@ -1,27 +1,18 @@
-# MicroFrontendShell
+# MicroFrontEnds using Angular Elements
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.2.
+Multiple scetions of applications were developed as custom elements using Angular elements and hosted on the Angular Shell App.
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+This demo mainly covers
+# Creating Custom Elements using Angular Elements
+# loading custom elements into an Angular Shell App
+ 
+ .Three types of loading custom elements into an Angular Shell App.
+    --Basic intial loading while app instanates.
+    --Lazy loading of internal custom elements
+    --Dynamic loading of external custom elements
+ 
+# Communication between ShellApp to other microfront ends
+# Communication between microfrontends
+# Used bootstrap and Lorem texts for component design
+# Used ngx-build-plus for bundling the external custom-elements
+ 
