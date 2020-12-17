@@ -18,3 +18,6 @@ Communication between microfrontends ,
 
 Used bootstrap and Lorem texts for component design and
 Used ngx-build-plus for bundling the external custom-elements
+
+
+# npm i followed by npm start
